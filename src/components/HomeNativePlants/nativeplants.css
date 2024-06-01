@@ -1,0 +1,17 @@
+.colored-box {
+  background-color: #d7f1d3;
+  color: black;
+  border-radius: 20px;
+  max-width: 300px;
+}
+
+.box-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.box-text {
+  font-size: 1em;
+  font-weight: normal;
+}

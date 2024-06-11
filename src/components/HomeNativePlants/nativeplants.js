@@ -5,11 +5,11 @@ import "./nativeplants.css";
 function HomeNativePlants() {
   return (
     <div className="d-flex justify-content-start my-3">
-      <div className="colored-box p-3">
-        <h2 className="box-title">
+      <div className="nativeplants-colored-box p-3">
+        <h2 className="nativeplants-box-title">
           Why are native plants essential for bee populations
         </h2>
-        <p className="box-text">
+        <p className="nativeplants-box-text">
           There are some 360 bee species in the Netherlands, half of which are
           on the red list of threatened species. Around 34 species have already
           become extinct. Native plants are vital for supporting local bee

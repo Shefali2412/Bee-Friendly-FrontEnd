@@ -6,7 +6,7 @@ import "./allimage.css";
 function AllBeeImage() {
   return (
     <div>
-      <img src={BeeFriendlyImage.jpg} alt="Home" />
+      <img src={BeeFriendlyImage} alt="Home" />
     </div>
   );
 }

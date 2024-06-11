@@ -1,0 +1,14 @@
+.plantofmonth-box img {
+  border-radius: 40px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.plantofmonth-box {
+  text-align: left;
+}
+
+.plantofmonth-title {
+  padding-top: 20px;
+}

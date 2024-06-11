@@ -6,10 +6,20 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div>
+    <div className="home-container">
       <AllBeeImage />
-      <HomeNativePlants />
-      <HomePlantOfMonthAndImage />
+      <div className="row">
+        <div className="col-md-6">
+          <div className="nativeplants-container">
+            <HomeNativePlants />
+          </div>
+        </div>
+        <div className="col-md-6 d-flex">
+          <div className="plantofmonth-container">
+            <HomePlantOfMonthAndImage />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

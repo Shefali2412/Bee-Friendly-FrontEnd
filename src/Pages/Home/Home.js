@@ -2,6 +2,9 @@ import React from "react";
 import AllBeeImage from "../../components/AllBeeImage/allimage";
 import HomeNativePlants from "../../components/HomeNativePlants/nativeplants";
 import HomePlantOfMonthAndImage from "../../components/HomePlantOfMonthAndImage/plantofmonth";
+import HomeFilterOptions from "../../components/HomeFilterOptions/filteroptions";
+import HomeCardsSearch from "../../components/HomeCardsSearch/cardssearch";
+
 import "./Home.css";
 
 function Home() {
@@ -20,6 +23,12 @@ function Home() {
           </div>
         </div>
       </div>
+      <div className="row mt-4">
+        <div className="col">
+          <HomeFilterOptions />
+        </div>
+      </div>
+      <HomeCardsSearch />
     </div>
   );
 }

@@ -10,11 +10,18 @@ function HomeNativePlants() {
           Why are native plants essential for bee populations
         </h2>
         <p className="nativeplants-box-text">
-          There are some 360 bee species in the Netherlands, half of which are
-          on the red list of threatened species. Around 34 species have already
-          become extinct. Native plants are vital for supporting local bee
-          populations and provide the specific nectar and pollen that local bees
-          have evolved to depend on.
+          In the Netherlands alone, there are around 360 different species of
+          bees. Alarmingly, half of these species are currently endangered,
+          putting them at risk of disappearing forever. Tragically, 34 species
+          have already vanished from Dutch ecosystems. Native plants are
+          essential for supporting these local bee populations. They provide the
+          specific nectar and pollen that bees need to survive. These plants
+          have co-evolved alongside bees over time, creating a perfect match for
+          their nutritional needs. By choosing native plants for our gardens and
+          green spaces, we can create safe havens for bees to thrive, along with
+          other pollinators. This not only helps bees but also benefits other
+          pollinating animals, contributing to a richer and more diverse
+          ecosystem overall.
         </p>
       </div>
     </div>

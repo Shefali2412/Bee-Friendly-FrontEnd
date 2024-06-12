@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./plantofmonth.css";
-import plantofmonth from "../../assets/images/plantofmonth.webp";
+import plantofmonth from "../../assets/Images/plantofmonth.webp";
 
 function HomePlantOfMonthAndImage() {
   return (

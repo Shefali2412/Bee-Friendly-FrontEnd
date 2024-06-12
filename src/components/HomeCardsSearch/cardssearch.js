@@ -1,6 +1,6 @@
 import React from "react";
-import GeraniumPratense from "../../assets/images/GeraniumPratense.jpeg";
-import PersicariaBistorta from "../../assets/images/PersicariaBistorta.jpeg";
+import GeraniumPratense from "../../assets/Images/GeraniumPratense.jpeg";
+import PersicariaBistorta from "../../assets/Images/PersicariaBistorta.jpeg";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./cardssearch.css";

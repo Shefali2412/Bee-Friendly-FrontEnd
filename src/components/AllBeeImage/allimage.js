@@ -1,5 +1,5 @@
 import React from "react";
-import BeeFriendlyImage from "../../assets/Images/BeeFriendlyImage.jpg";
+import BeeFriendlyImage from "../../assets/Images/BeeFriendlyImage.jpeg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./allimage.css";
 
